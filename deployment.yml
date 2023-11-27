@@ -19,3 +19,5 @@ spec:
         image: teaguejobs/sample-python-app-demo:1
         ports:
         - containerPort: 8000
+
+        
